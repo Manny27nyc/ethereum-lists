@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "node-fetch": "^2.6.0",
-    "prettier": "^1.14.2",
+    "prettier": "^2.5.1",
     "validate.js": "^0.13.1"
   }
 }
