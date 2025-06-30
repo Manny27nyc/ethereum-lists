@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const fs = require('fs');
 const filePath = './dist/master-file.json';
 const web3 = require('web3');

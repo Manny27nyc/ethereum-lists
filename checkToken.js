@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const fs = require('fs');
 const tokensDirectory = './src/tokens';
 const web3 = require('web3');

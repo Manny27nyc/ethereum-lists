@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const fs = require('fs');
 const ethTokens = require('./dist/tokens/eth/tokens-eth.min.json');
 function generate() {

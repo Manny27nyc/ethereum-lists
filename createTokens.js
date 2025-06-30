@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const fs = require('fs');
 const Web3 = require('web3');
 const fetch = require('node-fetch');

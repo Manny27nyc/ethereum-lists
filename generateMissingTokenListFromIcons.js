@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const ethList = './dist/tokens/eth/tokens-eth.json';
 const ethIcons = './src/icons';
 const web3 = require('web3');

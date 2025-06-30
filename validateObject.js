@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 function validateObject(whiteList, objToValidate, filePath) {
   const objKeys = Object.keys(objToValidate);
   objKeys.forEach(key => {

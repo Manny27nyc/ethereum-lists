@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const fs = require('fs');
 const utils = require('web3').utils;
 const MAIN_SRC = './dist/tokens';
